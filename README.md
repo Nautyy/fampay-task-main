@@ -77,14 +77,8 @@ Visit the url `http://127.0.0.1:5000/initialise`
 
 #### Output Screenshots : 
 
-![WhatsApp Image 2024-11-09 at 8 23 23 PM (2)](https://github.com/user-attachments/assets/fec61d35-61f1-4e3e-9198-7df0e23ccb4b)
-
-### Paginated Query
-![WhatsApp Image 2024-11-09 at 8 23 23 PM](https://github.com/user-attachments/assets/600cb7f9-e422-4d2c-953d-996377a1aab7)
-
-![WhatsApp Image 2024-11-09 at 8 23 22 PM (1)](https://github.com/user-attachments/assets/acd1fb9e-1aa0-43b2-82dc-0765913d0e22)
-
-### Search Query
-![WhatsApp Image 2024-11-09 at 8 23 22 PM](https://github.com/user-attachments/assets/3e4afada-7e3f-40c2-a583-696612e6ab0d)
-
-![WhatsApp Image 2024-11-09 at 8 23 23 PM (1)](https://github.com/user-attachments/assets/9aa99cfc-cfab-428f-bc6a-c20a00a4018c)
+![ (2)](https://github.com/user-attachments/assets/2b7e1cfc-f28d-47be-98fb-7c9fe5b62cd3)
+  
+![ (1)](https://github.com/user-attachments/assets/b21ab686-3c70-44c0-8dbe-1f1f8801fea5)
+![](https://github.com/user-attachments/assets/15d2fc5e-23f9-4841-9342-4575f3713dcf)
+![(1)](https://github.com/user-attachments/assets/0ae90d87-25fd-4d8c-becb-db3896c5bd1b)
